@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <!-- - [libft](https://github.com/andrexandre/libft) [printf](https://github.com/andrexandre/ft_printf) [get_next_line](https://github.com/andrexandre/get_next_line) - Recreation of various standard C library functions -->
 <!-- - [push_swap](https://github.com/andrexandre/push_swap) - Stack sorting algorithm using a restricted set of operations -->
 - [So_long](https://github.com/mouracv/so_long) - Simple 2D game using the [minilibx](https://github.com/42Paris/minilibx-linux) library.
+- [Get_next_line](https://github.com/mouracv/get_next_line) - Read lines from a file descriptor using dynamic buffers in C.
 <!-- - [minishell](https://github.com/andrexandre/minishell) - Simple implementation of a shell that involves pipes, redirections, environment variables and signals -->
 <!-- - [cub3D](https://github.com/andrexandre/cub3D) - A raycasting-based 3D game engine using the [minilibx](https://github.com/42Paris/minilibx-linux) library -->
 
